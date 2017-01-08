@@ -1,2 +1,3 @@
-# practical-deep-learning-for-coders
+# Practical Deep Learning for Coders
+
 http://course.fast.ai/index.html
