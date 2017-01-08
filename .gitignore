@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Ignore Kaggle CLI configs
+.kaggle-cli/
+
+# Ignore data folder
+data/
